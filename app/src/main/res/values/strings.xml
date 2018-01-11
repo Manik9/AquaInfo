@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ITRA</string>
+    <string name="aquainfo">AQUAINFO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aqua_info">ITRA</string>
+    <string name="by_binary_keys">by Binary Keys</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="itra">ITRA</string>
+
+
+    <string-array name="city">
+        <item>Hyderabad</item>
+        <item>Jaipur</item>
+        <item>Mysore</item>
+        <item>New Delhi</item>
+        <item>Madras</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_map">View Map</string>
+    <string name="longitude">longitude:</string>
+    <string name="latitude">latitude:</string>
+
+
+</resources>

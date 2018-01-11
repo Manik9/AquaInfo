@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636923693901",
+    "firebase_url": "https://itra-a3210.firebaseio.com",
+    "project_id": "itra-a3210",
+    "storage_bucket": "itra-a3210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636923693901:android:ef76f5b816a05e68",
+        "android_client_info": {
+          "package_name": "binarykeys.aquainfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636923693901-skpdq9jhrhbgj6nrme0s7j3hcllpae6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "binarykeys.aquainfo",
+            "certificate_hash": "4f57547c9e95ebc76f854975945cbe13d3704520"
+          }
+        },
+        {
+          "client_id": "636923693901-mo97ufl3gig506tlhjvnlpmk9l02et8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmr8oitH1nAkpsTxfx_8Z4HIcV8PdKL7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636923693901-mo97ufl3gig506tlhjvnlpmk9l02et8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
